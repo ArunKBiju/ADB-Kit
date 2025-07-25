@@ -4,6 +4,7 @@
 #Date = 19/04/2025
 #Written in Bash
 #"ONLY FOR EDUCATIONAL PURPOSE"
+sdcsc
 
 current_version=2.32
 
