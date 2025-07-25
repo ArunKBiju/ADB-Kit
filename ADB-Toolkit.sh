@@ -4,7 +4,6 @@
 #Date = 19/04/2025
 #Written in Bash
 #"ONLY FOR EDUCATIONAL PURPOSE"
-==
 current_version=2.32
 
 echo -e "ADB-Toolkit by ARUN K BIJU\n\n"
